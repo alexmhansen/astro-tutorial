@@ -1,7 +1,7 @@
 ---
 title: 'My First Blog Post'
 pubDate: 29-06-2023
-description: 'This is the first post of my new Astro blog.'
+description: "This is the first post of my new Astro blog."
 author: 'Alexander Hansen'
 image:
     url: 'https://docs.astro/build/assets/full-logo-light.png'
